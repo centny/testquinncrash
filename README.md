@@ -1,3 +1,9 @@
+### code explain
+
+- `src/lib.rs`
+  - `connect`: start connect to server then loop read it on `read`
+  - `Java_com_example_quinncrash_Bind_close`: signal close
+
 ### start server
 
 ```.sh
